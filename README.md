@@ -8,37 +8,20 @@ The Food Booking App design focuses on providing a seamless and engaging experie
 
 ## Screenshots
 
-### Home Screen
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/1.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/2.png" alt="Restaurant Selection" width="300" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/3.png" alt="Menu Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/4.png" alt="Order Summary" width="300" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/5.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/6.png" alt="Restaurant Selection" width="300" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/7.png" alt="Menu Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/8.png" alt="Order Summary" width="300" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/9.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/10.png" alt="Restaurant Selection" width="300" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/11.png" alt="Menu Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/12.png" alt="Order Summary" width="300" />
-</div>
+| Image | Image |
+|-------|-------|
+| ![Home Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/1.png) | ![Restaurant Selection](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/2.png) |
+| **Home Screen** | **Restaurant Selection** |
+| ![Menu Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/3.png) | ![Order Summary](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/4.png) |
+| **Menu Screen** | **Order Summary** |
+| ![Home Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/5.png) | ![Restaurant Selection](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/6.png) |
+| **Home Screen** | **Restaurant Selection** |
+| ![Menu Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/7.png) | ![Order Summary](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/8.png) |
+| **Menu Screen** | **Order Summary** |
+| ![Home Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/9.png) | ![Restaurant Selection](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/10.png) |
+| **Home Screen** | **Restaurant Selection** |
+| ![Menu Screen](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/11.png) | ![Order Summary](https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/12.png) |
+| **Menu Screen** | **Order Summary** |
 
 ## Features
 
