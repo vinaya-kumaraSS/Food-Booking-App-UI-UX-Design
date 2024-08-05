@@ -9,32 +9,36 @@ The Food Booking App design focuses on providing a seamless and engaging experie
 ## Screenshots
 
 ### Home Screen
-<div style="display: flex; justify-content: center; gap: 10px;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/1.png" alt="Home Screen" width="300" />
     <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/2.png" alt="Restaurant Selection" width="300" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/3.png" alt="Menu Screen" width="300" />
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/4.png" alt="Order Summary" width="300" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/4.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/5.png" alt="Restaurant Selection" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/6.png" alt="Menu Screen" width="300" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/5.png" alt="Home Screen" width="300" />
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/6.png" alt="Restaurant Selection" width="300" />
 </div>
 
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/7.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/8.png" alt="Restaurant Selection" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/9.png" alt="Menu Screen" width="300" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/7.png" alt="Menu Screen" width="300" />
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/8.png" alt="Order Summary" width="300" />
 </div>
 
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/10.png" alt="Home Screen" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/11.png" alt="Restaurant Selection" width="300" />
-    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/12.png" alt="Menu Screen" width="300" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/9.png" alt="Home Screen" width="300" />
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/10.png" alt="Restaurant Selection" width="300" />
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/11.png" alt="Menu Screen" width="300" />
+    <img src="https://github.com/vinaya-kumaraSS/Food-Booking-App-UI-UX-Design/blob/main/12.png" alt="Order Summary" width="300" />
+</div>
 
 ## Features
 
@@ -47,7 +51,7 @@ The Food Booking App design focuses on providing a seamless and engaging experie
 
 To view and interact with the Figma design files:
 
-1. **Access the Design**: [Open the Figma File](https://www.figma.com/file/your-figma-file-id)
+1. **Access the Design**: [Open the Figma File](https://www.figma.com/design/VuGlXew2pxDjlXwUsAiela/Food-Order-App?node-id=0-1&t=FvOhPP9YLfjHs8jg-0)
 2. **Explore the Screens**: Navigate through the different screens to see the design in detail.
 3. **Comments and Feedback**: You can leave comments and feedback directly on the Figma file if you have any suggestions or questions.
 
@@ -59,7 +63,7 @@ This design is provided under the [MIT License](LICENSE). Feel free to use and a
 
 For any inquiries or further information, please contact:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:vinaykumarss904@gmail.com)
 - **GitHub**: [vinaya-kumaraSS](https://github.com/vinaya-kumaraSS)
 
 Thank you for exploring the Food Booking App UI/UX Design! We hope you find the design inspiring and useful.
